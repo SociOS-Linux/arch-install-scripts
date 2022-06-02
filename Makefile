@@ -1,3 +1,4 @@
+#!/bin/bash
 VER=24
 
 PREFIX = /usr/local
